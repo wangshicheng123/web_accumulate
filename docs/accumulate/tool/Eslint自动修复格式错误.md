@@ -84,7 +84,7 @@ module.exports = {
 
 ![](https://github.com/OBKoro1/articleImg_src/blob/master/juejin/165e1561a9b92866?raw=true)
 
-`--ext`后面跟上的`.js`、`.vue`是你要检测文件的后缀，`.vue`后面的`src`是要检测的哪个目录下面的文件。
+`--ext`后面跟上的`.js`、`.vue`是你要检测文件的后缀，`.vue`后面的`src`是要检测的哪个目录下面的文件。【注意后缀之间不能存在空格】
 
 `--fix`的作用是自动修复根据你配置的规则检测出来的格式问题
 
